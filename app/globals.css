@@ -9,18 +9,18 @@
   --color-current: currentColor;
   --color-transparent: transparent;
   --color-stroke: #eeeeee;
-  --color-strokedark: #2d2f40;
-  --color-hoverdark: #252a42;
+  --color-strokedark: #a68a64;
+  --color-hoverdark: #38383e;
   --color-titlebg: #adfff8;
   --color-titlebg2: #ffeac2;
-  --color-titlebgdark: #46495a;
-  --color-btndark: #292e45;
+  --color-titlebgdark: #49513b;
+  --color-btndark: #6e5c43;
   --color-white: #ffffff;
-  --color-black: #181c31;
+  /* --color-black: #46453d; */
   --color-blackho: #2c3149;
-  --color-blacksection: #1c2136;
-  --color-primary: #006bff;
-  --color-primaryho: #0063ec;
+  --color-blacksection: #131c21;
+  --color-primary: #a6b87d;
+  --color-primaryho: #b6d37c;
   --color-meta: #20c5a8;
   --color-waterloo: #757693;
   --color-manatee: #999aa1;
