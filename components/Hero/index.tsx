@@ -25,7 +25,7 @@ const Hero = () => {
                   Ethical, User-Owned Agri Intelligence
                 </span>
               </h1>
-              <p>AgriData is a decentralized, community-owned DataDAO empowering farmers, researchers, and agritech developers to contribute and control their agricultural data. Built on the Vana protocol, we enable privacy-preserving, consent-based sharing of data from sensors, drones, and field observations.Join us to help democratize access to high-impact farming insights and shape the future of sustainable, transparent agriculture.</p>
+              <p>AgriData is a decentralized, community-owned DataDAO empowering farmers, researchers, and agritech developers to contribute and control their agricultural data. Built on the Vana protocol, we enable privacy-preserving, consent-based sharing of data from sensors, drones, and field observations. Join us to help democratize access to high-impact farming insights and shape the future of sustainable, transparent agriculture.</p>
 
               <div className="mt-10">
                 <form onSubmit={handleSubmit}>
