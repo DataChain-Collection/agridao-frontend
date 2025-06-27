@@ -2,11 +2,11 @@
 
 import { useState, useEffect, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
-import BootstrapTemplate from '../../../markdown/docs/nutridao-roadmap.mdx';
+import BootstrapTemplate from '../../../markdown/docs/agridata-roadmap.mdx';
 import About from '../../../markdown/docs/about.mdx';
 
 const docs = [
-  { title: "Roadmap", Component: BootstrapTemplate, slug: "nutridao-roadmap" },
+  { title: "Roadmap", Component: BootstrapTemplate, slug: "agridata-roadmap" },
   { title: "About Us", Component: About, slug: "about" },
 ];
 
