@@ -14,8 +14,8 @@ const Feature = () => {
           <SectionHeader
             headerInfo={{
               title: "Core Features",
-              subtitle: "What Powers NutriDAO",
-              description: `Six pillars that power our decentralized nutritional data ecosystem`,
+              subtitle: "What Powers AgriData",
+              description: `Six pillars that power our decentralized agricultural data ecosystem`,
             }}
           />
           {/* <!-- Section Title End --> */}
