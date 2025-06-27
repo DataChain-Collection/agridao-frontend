@@ -46,7 +46,7 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-                  NutriDAO – A DataChain Collection Initiative
+                  AgriData – A DataChain Collection Initiative
                 </p>
 
                 {/*<p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">*/}
@@ -304,7 +304,7 @@ const Footer = () => {
                 &copy; 2025 DataChain Collection.
               </p>
               <p>
-                Building ethical data economies across health (NutriDAO), finance, and consumer ecosystems.
+                Building ethical data economies across agriculture (AgriData) and open research ecosystems.
               </p>
             </motion.div>
 

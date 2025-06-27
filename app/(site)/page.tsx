@@ -14,10 +14,10 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "NutriDAO",
+  title: "AgriData",
 
   // other metadata
-  description: "NutriDAO"
+  description: "AgriData"
 };
 
 export default function Home() {
