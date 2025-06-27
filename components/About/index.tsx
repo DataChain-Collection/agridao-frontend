@@ -29,14 +29,14 @@ const About = () => {
               className="animate_left relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/about/about-light-01.gif"
+                src="/images/about/about-us.jpg"
                 alt="About"
                 unoptimized
                 className="dark:hidden"
                 fill
               />
               <Image
-                src="/images/about/about-dark-01.gif"
+                src="/images/about/about-us.jpg"
                 alt="About"
                 unoptimized
                 className="hidden dark:block"
@@ -195,13 +195,13 @@ const About = () => {
               className="animate_right relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/about/about-light-02.png"
+                src="/images/about/question.jpg"
                 alt="About"
                 className="dark:hidden"
                 fill
               />
               <Image
-                src="/images/about/about-dark-02.png"
+                src="/images/about/question.jpg"
                 alt="About"
                 className="hidden dark:block"
                 fill
