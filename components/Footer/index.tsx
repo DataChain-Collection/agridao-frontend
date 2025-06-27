@@ -304,7 +304,7 @@ const Footer = () => {
                 &copy; 2025 DataChain Collection.
               </p>
               <p>
-                Building ethical data economies across health (NutriDAO), finance, and consumer ecosystems.
+                Building ethical data economies across agriculture (AgriData) and open research ecosystems.
               </p>
             </motion.div>
 
