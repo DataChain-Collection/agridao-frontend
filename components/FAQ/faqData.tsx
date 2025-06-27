@@ -3,13 +3,13 @@ import { FAQ } from "@/types/faq";
 const faqData: FAQ[] = [
   {
     id: 1,
-    quest: "What is NutriDAO and how does it work?",
-    ans: "NutriDAO is a community-driven DataDAO focused on ethical, user-owned nutritional data. Users can contribute structured supplement data and metadata, stored using FHIR standards and IPFS. In return, contributors receive rewards and help power AI models in health research.",
+    quest: "What is AgriData and how does it work?",
+    ans: "AgriData is a community-driven DataDAO focused on ethical, user-owned agricultural data. Users can contribute structured data from sensors, drones, and field observations, stored using decentralized standards like IPFS. In return, contributors receive rewards and help power AI models for sustainable farming and precision agriculture.",
   },
   {
     id: 2,
     quest: "Do I need technical knowledge to contribute?",
-    ans: "No. NutriDAO is designed to be accessible. Whether you're a health enthusiast, practitioner, or developer, you can contribute data through a simple interface, and all contributions are reviewed and curated by the community.",
+    ans: "No. AgriData is designed to be accessible. Whether you're a farmer, agronomist, researcher, or tech enthusiast, you can contribute data through a simple interface. All contributions are reviewed, validated, and curated by the community to ensure quality and transparency.",
   },
   {
     id: 3,
